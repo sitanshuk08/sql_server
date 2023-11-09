@@ -1,0 +1,7 @@
+Server Details on the Windows Machine
+Connection Sctring: Server=localhost;Database=master;Trusted_Connection=True;
+Server Install Log Folder: C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20231109_211326
+Installation Media Folder: D:\SQL2022\Developer_ENU
+Installation Resource Folder: C:\Program Files\Microsoft SQL Server\160\SSEI\Resources
+Instance Name: MSSQLSERVER
+SQL Administrator: DESKTOP-B2JE712\sitan
